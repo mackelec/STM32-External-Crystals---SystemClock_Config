@@ -19,6 +19,12 @@ Note that for the STM32G4 series, the default stm32Duino crystal setting is 24MH
 
 ```-DHSE_VALUE=8000000```
 
+
+####  Example of use can be found:
+
+##### - https://github.com/mackelec/meFDCAN
+##### - https://github.com/mackelec/meCAN
+
 ## License
 
 This library is licensed under the MIT License. See the `LICENSE` file for more information.
